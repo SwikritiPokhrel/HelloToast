@@ -1,7 +1,7 @@
 # Hello Toast
 ## Toast Message and Count
 ![](app/src/main/res/drawable/hellotoast1.png)
-##Vertical Layout
+## Vertical Layout
 ![](app/src/main/res/drawable/hellotoast.png)
-##Horizontal Layout
+## Horizontal Layout
 ![](app/src/main/res/drawable/hellotoast2.png)
